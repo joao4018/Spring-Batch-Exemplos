@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Aprendendo-Spring-Batch.iml" filepath="$PROJECT_DIR$/.idea/Aprendendo-Spring-Batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decider/decider.iml" filepath="$PROJECT_DIR$/decider/decider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemploflatfile/exemploflatfile.iml" filepath="$PROJECT_DIR$/exemploflatfile/exemploflatfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jobParameter/jobParameter.iml" filepath="$PROJECT_DIR$/jobParameter/jobParameter.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jobParameter" />
+        <module name="decider" />
+        <module name="exemploflatfile" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="decider" target="11" />
+      <module name="exemploflatfile" target="11" />
+      <module name="jobParameter" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="decider" options="-parameters" />
+      <module name="exemploflatfile" options="-parameters" />
+      <module name="jobParameter" options="-parameters" />
+    </option>
+  </component>
+</project>
